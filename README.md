@@ -4,12 +4,12 @@ A summary of the resources I have come across and the lessons I have learned whi
 * [General](#general)
 * [Hyperparameters](#hyperparameters)
 * [Deep Learning](#deep-learning)
-* [CNNs](#CNNs)
-* [RNNs](#RNNs)
-* [Learning Resources](#Learning-Resources)
-* [Research Ideas](#Research-Ideas)
-* [Interesting Links](#Interesting-Links)
-* [Other](#Other)
+* [CNNs](#cnns)
+* [RNNs](#rnnss)
+* [Learning Resources](#learning-resources)
+* [Research Ideas](#research-ideas)
+* [Interesting Links](#interesting-links)
+* [Other](#other)
 
 ## General
 
