@@ -6,6 +6,7 @@ A summary of the resources I have come across and the lessons I have learned whi
 * [Deep Learning](#deep-learning)
 * [CNNs](#CNNs)
 * [RNNs](#RNNs)
+* [Learning Resources](#Learning-Resources)
 * [Research Ideas](#Research-Ideas)
 * [Interesting Links](#Interesting-Links)
 * [Other](#Other)
@@ -27,6 +28,10 @@ A summary of the resources I have come across and the lessons I have learned whi
 * Need to update
 
 ## RNNs
+
+* Need to update
+
+## Learning Resources
 
 * Need to update
 
