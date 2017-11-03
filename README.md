@@ -7,6 +7,7 @@ A summary of the resources I have come across and the lessons I have learned whi
 * [CNNs](#cnns)
 * [RNNs](#rnnss)
 * [Learning Resources](#learning-resources)
+* [Datasets](*datasets)
 * [Research Ideas](#research-ideas)
 * [Interesting Links](#interesting-links)
 * [Other](#other)
@@ -40,13 +41,35 @@ A summary of the resources I have come across and the lessons I have learned whi
 * [Neural Networks and Deep Learning Book - Chapter 3: How to choose a neural network's hyper-parameters?](http://neuralnetworksanddeeplearning.com/chap3.html#how_to_choose_a_neural_network's_hyper-parameters) by Michael Nielsen
 * [Efficient Backprop (pdf)](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf) by Yann LeCun
 
+### Word2Vec and Word Embeddings
+* [Word2Vec Overview](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
+* [Tensorflow Word2Vec Tutorial](https://www.tensorflow.org/tutorials/word2vec)
+
+## Datasets
+* [Boston Housing Dataset](https://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html)
+	* Performed linear regression to predict housing prices
+* [CIFAR-10 and CIFAR-100 Datasets](https://www.cs.toronto.edu/~kriz/cifar.html)
+	* CIFAR-10: 60000 32x32 colour images in 10 classes (6000 images per class)
+	* CIFAR-100: CIFAR-10 dataset with 100 classes and 600 images per class. 
+* [Microsoft Coco](http://cocodataset.org/#home)
+	* Object detection, segmentation and captioning dataset with ~330K images (>200K labeled), 1.5M object instances, 80 object categories, 91 stuff categories and 5 captions per image.
+* [MNIST Handwritten Digits Dataset](http://yann.lecun.com/exdb/mnist/)
+	* A popular and well understood dataset of handwritten digits used as a benchmark to test new algorithms and approaches. 
+	* 28x28 images with 60,000 training and 10,000 test examples
+	* Used to train my first neural network and to play around with autoencoders and denoisers
+* [text8 Dataset](http://mattmahoney.net/dc/textdata.html)
+	* Wikipedia article dataset 
+
+
+
+
 ## Research Ideas
 
 * Need to update
 
 ## Interesting Links
 
-* Need to update
+* [Google Word2Vec](https://code.google.com/archive/p/word2vec/)
 
 ## Other
 
