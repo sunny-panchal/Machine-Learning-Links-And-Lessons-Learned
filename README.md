@@ -32,8 +32,13 @@ A summary of the resources I have come across and the lessons I have learned whi
 * Need to update
 
 ## Learning Resources
-
 * Need to update
+
+### Hyperparameters
+* [Practical recommendations for gradient-based training of deep architectures](https://arxiv.org/abs/1206.5533) by Yoshua Bengio
+* [Deep Learning Book - chapter 11.4: Selecting Hyperparameters](http://www.deeplearningbook.org/contents/guidelines.html) by Ian Goodfellow, Yoshua Bengio, Aaron Courville
+* [Neural Networks and Deep Learning Book - Chapter 3: How to choose a neural network's hyper-parameters?](http://neuralnetworksanddeeplearning.com/chap3.html#how_to_choose_a_neural_network's_hyper-parameters) by Michael Nielsen
+* [Efficient Backprop (pdf)](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf) by Yann LeCun
 
 ## Research Ideas
 
