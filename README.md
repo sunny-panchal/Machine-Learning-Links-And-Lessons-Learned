@@ -33,7 +33,9 @@ A summary of the resources I have come across and the lessons I have learned whi
 * Need to update
 
 ## Learning Resources
-* Need to update
+* [tensorflow-seq2seq-tutorials](https://github.com/ematvey/tensorflow-seq2seq-tutorials)
+* [Sequence to Sequence Deep Learning (Quoc Le, Google](https://www.youtube.com/watch?v=G5RY_SUJih4)
+* [Improved techniques for trainings GANs](https://arxiv.org/pdf/1606.03498.pdf)
 
 ### Hyperparameters
 * [Practical recommendations for gradient-based training of deep architectures](https://arxiv.org/abs/1206.5533) by Yoshua Bengio
@@ -59,6 +61,10 @@ A summary of the resources I have come across and the lessons I have learned whi
 	* Used to train my first neural network and to play around with autoencoders and denoisers
 * [text8 Dataset](http://mattmahoney.net/dc/textdata.html)
 	* Wikipedia article dataset 
+* [Cornell Movie Dialog Corpus](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html)
+	* Contains over 200,000 conversational exchanges from ~600 movies
+	* [Stanford Chatbot Exercise](https://github.com/chiphuyen/tf-stanford-tutorials/tree/master/assignments/chatbot)
+* [French-English Translation Corpus](http://www.statmt.org/wmt10/training-giga-fren.tar)
 
 
 
@@ -70,6 +76,10 @@ A summary of the resources I have come across and the lessons I have learned whi
 ## Interesting Links
 
 * [Google Word2Vec](https://code.google.com/archive/p/word2vec/)
+* [Image-to-Image Demo](https://affinelayer.com/pixsrv/) by Christopher Hesse
+* [CycleGAN](https://github.com/junyanz/CycleGAN): examples of GANs applied to transfer image styles, change primary objects etc. 
+* [List of Popular GANs](https://github.com/wiseodd/generative-models)
+
 
 ## Other
 
