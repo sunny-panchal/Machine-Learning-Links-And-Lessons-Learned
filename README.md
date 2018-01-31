@@ -1,7 +1,7 @@
 # Machine Learning Links And Lessons Learned
 A summary of the resources I have come across and the lessons I have learned while studying machine learning. I've been Inspired to organize my findings by Adit Deshpande's work found on his repo [here](https://github.com/adeshpande3). I've included some general coding and full-stack development related content as well that I'll add to it's own file later. 
 
-* [Applications/Demos](#applications-and-demos)
+* [Applications and Demos](#applications-and-demos)
 * [Articles](#articles)
 * [Blogs and News Sources](#blogs-and-news-sources)
 * [Companies](#companies)
@@ -9,7 +9,7 @@ A summary of the resources I have come across and the lessons I have learned whi
 * [Conferences, Journals and Societies](#conferences,-journals-and-societies)
 * [Datasets](#datasets)
 * [Groups and Meetups](#groups-and-meetups)
-* [Incubators,A ccelerators and StartupHubs](#incubators,-accelerators-and-startuphubs)
+* [Incubators, Accelerators and StartupHubs](#incubators,-accelerators-and-startuphubs)
 * [Learning Resources](#learning-resources)
 * [Libraries and Tools](#libraries-and-tools)
 * [Notable People](#notable-people)
