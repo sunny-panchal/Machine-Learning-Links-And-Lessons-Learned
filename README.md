@@ -3,15 +3,15 @@ A summary of the resources I have come across and the lessons I have learned whi
 
 * [Applications/Demos](#applications-and-demos)
 * [Articles](#articles)
-* [Blogs/News Sources](#blogs/news-sources)
+* [Blogs and News Sources](#blogs-and-news-sources)
 * [Companies](#companies)
-* [Competitions/Hackathons](#competitions/hackathons)
-* [Conferences/Journals/Societies](#conferences/journals/societies)
+* [Competitions and Hackathons](#competitions-and-hackathons)
+* [Conferences, Journals and Societies](#conferences,-journals-and-societies)
 * [Datasets](#datasets)
-* [Groups/Meetups](#groups/meetups)
-* [Incubators/Accelerators/StartupHubs](#incubators/accelerators/startuphubs)
+* [Groups and Meetups](#groups-and-meetups)
+* [Incubators,A ccelerators and StartupHubs](#incubators,-accelerators-and-startuphubs)
 * [Learning Resources](#learning-resources)
-* [Libraries/Tools](#libraries/tools)
+* [Libraries and Tools](#libraries-and-tools)
 * [Notable People](#notable-people)
 * [Research Labs](#research-labs)
 * [Study Plans](#study-plans)
@@ -61,7 +61,7 @@ A summary of the resources I have come across and the lessons I have learned whi
 * [What would it take for AI to achieve consciousness? - CIFAR : CIFAR](https://www.cifar.ca/assets/ai-achieve-consciousness/)
 * [How Fast Is AI Progressing? Stanford's New Report Card for Artificial Intelligence](https://singularityhub.com/2018/01/18/how-fast-is-ai-progressing-stanfords-new-report-card-for-artificial-intelligence/#sm.00004qn4951dupenwyzr9nqe1hkxy)
 
-## Blogs/News Sources
+## Blogs and News Sources
 * [Welcome to the cleverhans blog](http://www.cleverhans.io/)
 * [Research Blog: Using Machine Learning to Explore Neural Network Architecture](https://research.googleblog.com/2017/05/using-machine-learning-to-explore.html)
 * [Shivon Zilis - Machine Intelligence](http://www.shivonzilis.com/)
@@ -145,12 +145,12 @@ A summary of the resources I have come across and the lessons I have learned whi
 * [AWS](https://www.awseducate.com/student/s/)
 * [Welcome | FloydHub](https://www.floydhub.com/welcome)
 
-## Competitions/Hackathons
+## Competitions and Hackathons
 * [Kaggle: The Home of Data Science](https://www.kaggle.com/)
 * [Gender Recognition by Voice | Kaggle](https://www.kaggle.com/primaryobjects/voicegender/kernels)
 * [NIPS 2017: Non-targeted Adversarial Attack | Kaggle](https://www.kaggle.com/c/nips-2017-non-targeted-adversarial-attack)
 
-## Conferences/Journals/Societies
+## Conferences, Journals and Societies
 * [AGI](http://www.agi-society.org/)
 * [‎agi-conf.org](http://agi-conf.org/)
 * [(4) AGI Society - YouTube - YouTube](https://www.youtube.com/channel/UCCwJ8AV1zMM4j9FTicGimqA)
@@ -188,11 +188,11 @@ A summary of the resources I have come across and the lessons I have learned whi
 * [Caltech Birds Dataset](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html): Dataset with ~12,000 images of birds
 * [European Paliament Proceedings](http://www.statmt.org/europarl/): Text data translated into 21 languages from 1996 to 2011
 
-## Groups/Meetups
+## Groups and Meetups
 * [Deep Learning Toronto Meetup Message Board - Deep Learning Toronto Meetup (Toronto, ON) - Meetup](http://www.meetup.com/Deep-Learning-Toronto-Meetup/messages/boards/)
 * [Ban Lethal Autonomous Weapons](http://autonomousweapons.org/)
 
-## Incubators/Accelerators/StartupHubs
+## Incubators, Accelerators, and StartupHubs
 * [Home | The DMZ](http://dmz.ryerson.ca/)
 * [MaRS Discovery District](https://www.marsdd.com/)
 
@@ -433,7 +433,7 @@ A summary of the resources I have come across and the lessons I have learned whi
 ## Coding Challenges
 * [Advent of Code 2017](https://adventofcode.com/)
 
-## Coding Tips/Tricks
+## Coding Tips and Tricks
 ### Bash/Terminal
 * [My Mac OSX Bash Profile | Nathaniel Landau](http://natelandau.com/my-mac-osx-bash_profile/)
 * [40 Terminal Tips and Tricks You Never Thought You Needed - Envato Tuts+ Computer Skills Tutorial](http://computers.tutsplus.com/tutorials/40-terminal-tips-and-tricks-you-never-thought-you-needed--mac-51192)
