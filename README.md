@@ -252,6 +252,7 @@ A summary of the resources I have come across and the lessons I have learned whi
 * [Weighted Least Squares and locally weighted linear regression](http://www.dsplog.com/2012/02/05/weighted-least-squares-and-locally-weighted-linear-regression/)
 * [‎drona.csa.iisc.ernet.in/~e0270/Jan-2013/Lectures/4.pdf](http://drona.csa.iisc.ernet.in/~e0270/Jan-2013/Lectures/4.pdf)
 * [‎www.stat.washington.edu/courses/stat527/s14/slides/classification-logisticregression.pdf](http://www.stat.washington.edu/courses/stat527/s14/slides/classification-logisticregression.pdf)
+* [Become an ML Engineer with Scaler's Machine Learning Course](https://www.scaler.com/courses/machine-learning-course-training/)
 
 ### Generative Adversarial Networks
 * [junyanz/CycleGAN: Software that can generate photos from paintings, turn horses into zebras, perform style transfer, and more.](https://github.com/junyanz/CycleGAN)
@@ -516,6 +517,7 @@ A summary of the resources I have come across and the lessons I have learned whi
 * [Two-Way Data Binding: Angular 2 and React](https://www.accelebrate.com/blog/two-way-data-binding-angular-2-and-react/)
 * [javascript - Can anyone explain the difference between Reacts one-way data binding and Angular's two-way data binding - Stack Overflow](https://stackoverflow.com/questions/34519889/can-anyone-explain-the-difference-between-reacts-one-way-data-binding-and-angula)
 * [1ven/do: 📋 Notes management application built with React and Redux](https://github.com/1ven/do)
+* [Become a Full Stack Developer with Scaler Academy Program](https://www.scaler.com/courses/full-stack-developer/)
 
 #### Incorporating Machine Learning Models
 * [Tutorial to deploy Machine Learning model in Production as API with Flask](https://www.analyticsvidhya.com/blog/2017/09/machine-learning-models-as-apis-using-flask/)
